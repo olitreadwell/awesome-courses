@@ -1,0 +1,26 @@
+[project]
+name = "awesome-courses"
+version = "0.1.0"
+description = "A curated list of university courses, checked by the awesome-list engine."
+requires-python = ">=3.12"
+dependencies = [
+    "awesome-list @ git+https://github.com/olitreadwell/awesome-list-template@7623979",
+]
+
+[dependency-groups]
+dev = [
+    "pytest==9.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q --strict-markers"
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 88
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]

@@ -1,0 +1,75 @@
+{
+  "generated_at": "2026-09-24",
+  "repos": {
+    "RPISEC/MBE": {
+      "stars": 6052,
+      "pushed_at": "2021-12-09",
+      "archived": false
+    },
+    "RPISEC/Malware": {
+      "stars": 4070,
+      "pushed_at": "2022-08-26",
+      "archived": false
+    },
+    "VoLuong/Materials-CS193A-Android-App-Development-Standford": {
+      "stars": 119,
+      "pushed_at": "2018-03-02",
+      "archived": true
+    },
+    "aaronbloomfield/pdr": {
+      "stars": 122,
+      "pushed_at": "2026-03-25",
+      "archived": false
+    },
+    "chiphuyen/tf-stanford-tutorials": {
+      "stars": 10372,
+      "pushed_at": "2020-12-22",
+      "archived": true
+    },
+    "cis198-2016s/homework": {
+      "stars": 201,
+      "pushed_at": "2023-02-24",
+      "archived": true
+    },
+    "compilers-course-materials/cs75-s16-lectures": {
+      "stars": 42,
+      "pushed_at": "2016-04-19",
+      "archived": false
+    },
+    "fastai/fastai": {
+      "stars": 28192,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "jaehyunp/stanfordacm": {
+      "stars": 1664,
+      "pushed_at": "2020-12-24",
+      "archived": false
+    },
+    "mikeizbicki/ucr-cs100": {
+      "stars": 508,
+      "pushed_at": "2019-04-04",
+      "archived": false
+    },
+    "oxford-cs-deepnlp-2017/lectures": {
+      "stars": 15856,
+      "pushed_at": "2023-07-02",
+      "archived": false
+    },
+    "patricklam/p4p-2015": {
+      "stars": 72,
+      "pushed_at": "2015-04-10",
+      "archived": false
+    },
+    "ut-cs378-vision-2014fall/course-info": {
+      "stars": 75,
+      "pushed_at": "2015-02-17",
+      "archived": false
+    },
+    "yandexdataschool/Practical_RL": {
+      "stars": 6581,
+      "pushed_at": "2026-03-31",
+      "archived": false
+    }
+  }
+}

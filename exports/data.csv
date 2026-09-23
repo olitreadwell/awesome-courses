@@ -1,0 +1,620 @@
+section,group,name,url,description,tags,stars,last_push,line
+Courses,,CS 61C,http://www-inst.eecs.berkeley.edu/~cs61c/sp15/,Great Ideas in Computer Architecture (Machine Structures) UC Berkeley.,,,,37
+Courses,,Lecture Videos,https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter,,,,,39
+Courses,,Lecture Notes,http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar,,,,,40
+Courses,,Resources,http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Resources,,,,,41
+Courses,,Old Exams,https://hkn.eecs.berkeley.edu/exams/course/CS/61C,,,,,42
+Courses,,CS 107,https://courseware.stanford.edu/pg/courses/lectures/371747,Computer Organization & Systems Stanford University.,,,,43
+Courses,,Lecture Videos,https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10,,,,,45
+Courses,,Assignments,https://web.stanford.edu/class/cs107/assignments.html,,,,,46
+Courses,,CS 140,https://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/lectures.php,Operating Systems Stanford University.,,,,47
+Courses,,Assignments,https://web.stanford.edu/~ouster/cgi-bin/cs140-spring14/projects.php,,,,,50
+Courses,,6.004,https://6004.mit.edu/,Computation Structures MIT.,,,,51
+Courses,,Youtube Playlist,https://www.youtube.com/watch?v=9DWlqtsNGV0&index=1&list=PLmP5iIyVnKPQ-cO_EENdUgEdlRf0u5LYa,,,,,53
+Courses,,Lecture Notes,https://computationstructures.org/notes/tradeoffs/notes.html,,,,,54
+Courses,,Labs-Assignments,https://computationstructures.org/exercises/cmos/lab.html,,,,,55
+Courses,,CS 162,https://cs162.eecs.berkeley.edu/,Operating Systems and Systems Programming UC Berkeley.,,,,56
+Courses,,David Culler,https://www.cs.berkeley.edu/~culler/,"Operating Systems course by the Chair of EECS, UC Berkeley .",,,,58
+Courses,,Lecture Videos,https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c,Spring 2015 lectures.,,,,59
+Courses,,Lecture Notes,https://inst.eecs.berkeley.edu/~cs162/sp15/,Spring 2015 lectures.,,,,60
+Courses,,CS 168,https://inst.eecs.berkeley.edu/~cs168/fa14/,Introduction to the Internet: Architecture and Protocols UC Berkeley.,,,,61
+Courses,,Lecture Notes & Assignments,https://inst.eecs.berkeley.edu/~cs168/fa14/class.html,,,,,63
+Courses,,CS 179,http://courses.cms.caltech.edu/cs179/,GPU Programming Caltech.,,,,65
+Courses,,CS 186,https://sites.google.com/site/cs186spring2015/,Introduction to Database Systems UC Berkeley.,,,,69
+Courses,,Lecture Videos,https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y,,,,,71
+Courses,,Lecture Notes,https://sites.google.com/site/cs186fall2013/section-notes,,,,,72
+Courses,,Projects,https://sites.google.com/site/cs186fall2013/homeworks,,,,,73
+Courses,,CS 241,https://courses.engr.illinois.edu/cs241/sp2016/index.html,"Systems Programming (Spring 2016) Univ of Illinois, Urbana-Champaign.",,,,74
+Courses,,Assignments,https://courses.engr.illinois.edu/cs241/sp2016/mps.html,,,,,76
+Courses,,Labs,https://courses.engr.illinois.edu/cs241/sp2016/labs.html,,,,,77
+Courses,,Github Page,https://angrave.github.io/sys/#,,,,,78
+Courses,,Crowd Sourced Book,https://github.com/angrave/SystemProgramming/wiki,,,,,79
+Courses,,CS 425,https://courses.engr.illinois.edu/cs425/fa2016/index.html,"Distributed Systems Univ of Illinois, Urbana-Champaign.",,,,80
+Courses,,Lectures,https://courses.engr.illinois.edu/cs425/fa2016/lectures.html,,,,,82
+Courses,,Assignments,https://courses.engr.illinois.edu/cs425/fa2016/assignments.html,,,,,83
+Courses,,CS 452,http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/,Real-Time Programming University of Waterloo.,,,,84
+Courses,,Assignments,http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/assignments/index.html,,,,,86
+Courses,,Lecture notes,http://www.cgl.uwaterloo.ca/~wmcowan/teaching/cs452/s12/notes/index.html,,,,,87
+Courses,,CS 2043,https://www.cs.cornell.edu/courses/CS2043/2014sp/,Unix Tools & Scripting Cornell University.,,,,88
+Courses,,CS 3410,https://www.cs.cornell.edu/courses/cs3410/2016fa/,Computer System Organization and Programming Cornell University.,,,,93
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS3410/2014sp/schedule.html,,,,,95
+Courses,,CS 4410,https://www.cs.cornell.edu/courses/CS4410/2014fa/,Operating Systems Cornell University.,,,,97
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS4410/2014fa/slides/01-intro.pptx,,,,,99
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS4410/2014fa/lectures.php,,,,,100
+Courses,,CS 4414,https://rust-class.org/index.html,Operating Systems University of Virginia.,,,,101
+Courses,,Syllabus,https://rust-class.org/pages/syllabus.html,,,,,103
+Courses,,Lectures,https://rust-class.org/pages/classes.html,,,,,104
+Courses,,CS 5412,https://www.cs.cornell.edu/Courses/CS5412/2014sp/,Cloud Computing Cornell University.,,,,105
+Courses,,book,https://www.amazon.com/Guide-Reliable-Distributed-Systems-High-Assurance/dp/1447124154,"Taught by one of the stalwarts of this field, Prof Ken Birman, this course has a fantastic set of slides that one can go through. The Prof's  is also a gem and recommended as a must read in Google's tutorial on Distributed System Design.",,,,106
+Courses,,Slides,https://www.cs.cornell.edu/Courses/CS5412/2014sp/Syllabus.htm,,,,,107
+Courses,,CSCE 3613,https://comp.uark.edu/~wingning/csce3613/csce3613.html,"Operating Systems University of Arkansas (Fayetteville).   	- An introduction to operating systems including topics in system structures, process management, storage management, files, distributed systems, and case studies.",,,,108
+Courses,,Syllabus,https://comp.uark.edu/~wingning/csce3613/CSCE3613.pdf,,,,,109
+Courses,,Assignments,https://comp.uark.edu/~wingning/csce3613/Homework3613.html,,,,,110
+Courses,,Lecture Notes,https://comp.uark.edu/~wingning/csce3613/CourseNote3613.html,,,,,111
+Courses,,Readings,https://comp.uark.edu/~wingning/csce3613/Link3613.html,,,,,112
+Courses,,CSCI-UA.0202: Operating Systems (Undergrad),https://www.cs.nyu.edu/~mwalfish/classes/15sp/index.html,Operating Systems NYU.,,,,113
+Courses,,Assignments,https://www.cs.nyu.edu/~mwalfish/classes/15sp/labs.html,,,,,115
+Courses,,Lectures,https://www.cs.nyu.edu/~mwalfish/classes/15sp/syllabus.html,,,,,116
+Courses,,Old Exams,https://www.cs.nyu.edu/~mwalfish/classes/15sp/exams.html,,,,,117
+Courses,,CSCI 360,http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci360/csci360_f14.php,Computer Architecture 3 CUNY Hunter College.,,,,118
+Courses,,CSCI 493.66,http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/csci493.66_spr12.php,UNIX System Programming (formerly UNIX Tools) CUNY Hunter College.,,,,120
+Courses,,CSCI 493.75,http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.65/csci493.65_spr14.php,Parallel Computing CUNY Hunter College.,,,,122
+Courses,,Hack the Kernel,https://www.ops-class.org/,"Introduction to Operating Systems SUNY University at Buffalo, NY.",,,,124
+Courses,,Dr.Geoffrey Challen,https://blue.cse.buffalo.edu/people/gwa/,"For the processor, memory, and disks, we discuss how the operating system allocates each resource and explore the design and implementation of related abstractions. We also establish techniques for testing and improving system performance and introduce the idea of hardware virtualization. Programming assignments provide hands-on experience with implementing core operating system components in a realistic development environment. Course by .",,,,126
+Courses,,Syllabus,https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/,,,,,127
+Courses,,Slides,https://www.ops-class.org/slides/,,,,,128
+Courses,,Video lectures,https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3,,,,,129
+Courses,,Assignments,https://www.ops-class.org/asst/0/,,,,,130
+Courses,,Old Exams,https://www.ops-class.org/exams/,,,,,131
+Courses,,ECE 459,http://patricklam.ca/p4p/,Programming for Performance University of Waterloo.,,,,132
+Courses,,Lecture slides,https://github.com/patricklam/p4p-2015/tree/master/lectures,"★ 72 stars, last push 2015-04-10.",,,,134
+Courses,,ECGR4101/5101,https://webpages.uncc.edu/~jmconrad/EducationalMaterials/index.html,Embedded Systems using the Renesas RX63N Processor University of North Carolina at Charlotte.,,,,135
+Courses,,Lecture Videos,https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5,,,,,138
+Courses,,PODC,https://dcg.ethz.ch/lectures/podc_allstars/,Principles of Distributed Computing ETH-Zurich.,,,,140
+Courses,,Book,https://dcg.ethz.ch/lectures/podc_allstars/lecture/podc.pdf,,,,,142
+Courses,,SPAC,https://homes.cs.washington.edu/~djg/teachingMaterials/spac/,Parallelism and Concurrency Univ of Washington.,,,,144
+Courses,,6.824,https://css.csail.mit.edu/6.824/2014/index.html,Distributed Systems MIT.,,,,146
+Courses,,Assignments,https://css.csail.mit.edu/6.824/2014/labs/,Just do `git clone git://g.csail.mit.edu/6.824-golabs-2014 6.824`.,,,,148
+Courses,,Readings,https://css.csail.mit.edu/6.824/2014/schedule.html,,,,,149
+Courses,,6.828,https://pdos.csail.mit.edu/6.828/2014/,Operating Systems MIT.,,,,150
+Courses,,Assignments,https://pdos.csail.mit.edu/6.828/2014/labguide.html,,,,,152
+Courses,,Lectures,https://pdos.csail.mit.edu/6.828/2014/schedule.html,,,,,153
+Courses,,Videos,http://pdos.csail.mit.edu/6.828/2011/schedule.html,Note: These are student recorded cam videos of the 2011 course. The videos  explain a lot of concepts required for the labs and assignments.,,,,154
+Courses,,CSEP 552,https://courses.cs.washington.edu/courses/csep552/16wi/,Distributed Systems University of Washington.,,,,155
+Courses,,Lectures,https://courses.cs.washington.edu/courses/csep552/13sp/video/,Of a previous session are available to watch.,,,,157
+Courses,,15-213,https://www.cs.cmu.edu/~213/,Introduction to Computer Systems (ICS) Carnegie-Mellon University.,,,,158
+Courses,,Lecture Notes,https://www.cs.cmu.edu/~213/schedule.html,,,,,161
+Courses,,Videos,https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22,,,,,162
+Courses,,Assignments,https://csapp.cs.cmu.edu/public/labs.html,,,,,163
+Courses,,15-319/619,https://www.cs.cmu.edu/~msakr/15619-s17/recitations.html,Cloud Computing (ICS) Carnegie-Mellon University.,,,,164
+Courses,,15-410,https://www.cs.cmu.edu/~410/,Operating System Design and Implementation Carnegie-Mellon University.,,,,169
+Courses,,Lecture Notes,https://www.cs.cmu.edu/~410/lecture.html,,,,,171
+Courses,,Assignments,https://www.cs.cmu.edu/~410/p1/proj1.html,,,,,172
+Courses,,15-418,http://15418.courses.cs.cmu.edu/spring2015/,Parallel Computer Architecture and Programming Carnegie-Mellon University.,,,,173
+Courses,,Assignments,http://15418.courses.cs.cmu.edu/spring2015/exercises,,,,,175
+Courses,,Lecture Notes,http://15418.courses.cs.cmu.edu/spring2015/reading,,,,,176
+Courses,,Lecture Videos,https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22,,,,,177
+Courses,,15-440,https://www.cs.cmu.edu/~dga/15-440/F12/index.html,Distributed Systems Carnegie-Mellon University.,,,,179
+Courses,,Assignments,https://www.cs.cmu.edu/~dga/15-440/F12/assignments.html,,,,,181
+Courses,,15-721,https://15721.courses.cs.cmu.edu/spring2016/,Database Systems Carnegie-Mellon University.,,,,182
+Courses,,Assignments,https://15721.courses.cs.cmu.edu/spring2016/syllabus.html,,,,,184
+Courses,,Lecture Videos,https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O,,,,,185
+Courses,,Readings,https://15721.courses.cs.cmu.edu/spring2016/schedule.html,,,,,186
+Courses,,15-445/645,https://15445.courses.cs.cmu.edu/fall2017/,Database Systems Carnegie-Mellon University.,,,,187
+Courses,,Assignments,https://15445.courses.cs.cmu.edu/fall2017/assignments.html,,,,,189
+Courses,,Lecture Videos,https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x,,,,,190
+Courses,,Readings,https://15445.courses.cs.cmu.edu/fall2017/schedule.html,,,,,191
+Courses,,15-749,https://www.andrew.cmu.edu/course/15-749/,Engineering Distributed Systems Carnegie-Mellon University.,,,,192
+Courses,,Readings,https://www.andrew.cmu.edu/course/15-749/READINGS/,,,,,194
+Courses,,18-447,https://www.ece.cmu.edu/~ece447/s15/doku.php?id=start,Introduction to Computer Architecture CMU.,,,,195
+Courses,,Onur Mutlu,https://users.ece.cmu.edu/~omutlu/,"Very comprehensive material on Computer Architecture - definitely more than just ""introduction"". Online material is very user-friendly, even the recitation videos available online. This is the Spring'15 version by Prof. .",,,,196
+Courses,,Lectures and Recitation,https://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule,,,,,197
+Courses,,Homeworks,https://www.ece.cmu.edu/~ece447/s15/doku.php?id=homeworks,7 HWs with answer set as well.,,,,198
+Courses,,Readings,https://www.ece.cmu.edu/~ece447/s15/doku.php?id=readings,,,,,199
+Courses,,CS 75,https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html,Principles of Compiler Design Swathmore College.,,,,204
+Courses,,incremental approach to compiler design,http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf,"Modelled after the influential paper on , this course teaches how to build a compiler in OCaml.",,,,205
+Courses,,Course on Github,https://github.com/compilers-course-materials,,,,,206
+Courses,,Notes,https://github.com/compilers-course-materials/cs75-s16-lectures,"★ 42 stars, last push 2016-04-19.",,,,207
+Courses,,CS 91,https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html,Introduction to Programming Languages Swathmore College.,,,,208
+Courses,,Pyret,https://www.pyret.org/,Uses the  programming language & PAPL book to understand the fundamentals of programming languages.,,,,209
+Courses,,Labs,https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/s_labs.html,,,,,210
+Courses,,CIS 194,https://www.seas.upenn.edu/~cis194/,Introduction to Haskell Penn Engineering.,,,,211
+Courses,,Previous,https://www.seas.upenn.edu/~cis194/spring13/index.html,"Semester also available, with more exercises.",,,,213
+Courses,,CIS 198,https://cis198-2016s.github.io/,Rust Programming UPenn.,,,,214
+Courses,,Assignments,https://github.com/cis198-2016s/homework,"★ 201 stars, archived 2023-02-24.",,,,216
+Courses,,CMSC 430,https://www.cs.umd.edu/class/spring2015/cmsc430/,Introduction to Compilers Univ of Maryland.,,,,217
+Courses,,Lecture Notes,https://www.cs.umd.edu/class/spring2015/cmsc430/Schedule.html,,,,,219
+Courses,,Assignments,https://www.cs.umd.edu/class/spring2015/cmsc430/Projects.html,,,,,220
+Courses,,Corsopl,https://pradella.faculty.polimi.it/PL.html,Principles of Programming Languages Politecnico di Milano.  - Lecture Notes  - Readings.,,,,221
+Courses,,COS 326,https://www.cs.princeton.edu/~dpw/courses/cos326-12/info.php,Functional Programming Princeton University.,,,,224
+Courses,,Lectures,https://www.cs.princeton.edu/~dpw/courses/cos326-12/lectures.php,,,,,226
+Courses,,Assignments,https://www.cs.princeton.edu/~dpw/courses/cos326-12/assignments.php,,,,,227
+Courses,,CS 143,https://web.stanford.edu/class/cs143/,Compiler construction Stanford University.,,,,228
+Courses,,Syllabus,https://web.stanford.edu/class/cs143/syllabus.html,,,,,231
+Courses,,CS143 - 2011,https://www.keithschwarz.com/cs143/WWW/sum2011/,,,,,234
+Courses,,CS 164,https://sites.google.com/a/bodik.org/cs164/home,Hack your language! UC Berkeley.,,,,235
+Courses,,Lecture Videos,https://archive.org/details/ucberkeley-webcast-PL3A16CFC42CA6EF4F,,,,,237
+Courses,,Code for Assignments,https://bitbucket.org/cs164_overlord/,,,,,238
+Courses,,CS 173,https://cs.brown.edu/courses/cs173/2014/,Programming Languages Brown University.,,,,239
+Courses,,HtDP,https://htdp.org/2003-09-26/Book/,"Course by Prof. Krishnamurthi (author of ) and numerous other awesome books on programming languages. Uses a custom designed Pyret programming language to teach the concepts. There was an online class hosted in 2012, which includes all lecture videos for you to enjoy.",,,,240
+Courses,,Videos,https://cs.brown.edu/courses/cs173/2012/Videos/,,,,,241
+Courses,,Assignments,https://cs.brown.edu/courses/cs173/2014/assignments.html,,,,,242
+Courses,,CS 223,https://www.classes.cs.uchicago.edu/archive/2016/winter/22300-1/,Purely Functional Data Structures In Elm University of Chicago.,,,,243
+Courses,,Lectures,https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/Schedule.html,,,,,245
+Courses,,CS 240h,https://www.scs.stanford.edu/14sp-cs240h/,Functional Systems in Haskell Stanford University.,,,,247
+Courses,,Lecture Slides,https://www.scs.stanford.edu/14sp-cs240h/slides/,,,,,249
+Courses,,Lab1,https://www.scs.stanford.edu/14sp-cs240h/labs/lab1.html,"3 Assignments: , Lab2, Lab3.",,,,250
+Courses,,CS 421,https://courses.engr.illinois.edu/cs421/fa2014/,"Programming Languages and Compilers Univ of Illinois, Urbana-Champaign.   Course that uses OCaml to teach functional programming and programming language design.",,,,251
+Courses,,Lectures,https://courses.engr.illinois.edu/cs421/fa2014/lectures/index.html,,,,,253
+Courses,,Videos,http://recordings.engineering.illinois.edu/ess/portal/section/631edaeb-2a33-4537-b7c8-0c1cba783a4f,,,,,254
+Courses,,Assignments,https://courses.engr.illinois.edu/cs421/fa2014/mps/index.html,,,,,255
+Courses,,Exams,https://courses.engr.illinois.edu/cs421/fa2014/exams/index.html,,,,,256
+Courses,,CS 3110,https://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php,Structures and Functional Programming Cornell University.,Data,,,257
+Courses,,Lecture Slides,https://www.cs.cornell.edu/Courses/cs3110/2014fa/lecture_notes.php,,,,,259
+Courses,,Assignments,https://www.cs.cornell.edu/Courses/cs3110/2014fa/,,,,,260
+Courses,,CS 4120,https://www.cs.cornell.edu/courses/CS4120/2013fa/,Introduction to Compilers Cornell University.,,,,261
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS4120/2013fa/overview.html,,,,,263
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS4120/2013fa/schedule.html,,,,,264
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS4120/2013fa/homework.html,,,,,265
+Courses,,CS 4400,https://pl.barzilay.org/,Programming Languages Northeastern University.,,,,266
+Courses,,Syllabus,https://pl.barzilay.org/syllabus.html,,,,,269
+Courses,,Lecture Notes/Resources,https://pl.barzilay.org/resources.html,,,,,270
+Courses,,CS 4610,https://www.cs.virginia.edu/~weimer/4610/,Programming Languages and Compilers University of Virginia.,,,,271
+Courses,,Lecture Notes,https://www.cs.virginia.edu/~weimer/4610/lectures.html,,,,,273
+Courses,,Assignments,https://www.cs.virginia.edu/~weimer/4610/pa.html,,,,,274
+Courses,,CS 5114,https://www.cs.cornell.edu/courses/CS5114/2013sp/index.php,Network Programming Languages Cornell University.,,,,275
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS5114/2013sp/syllabus.php,,,,,277
+Courses,,CS 5142,https://www.cs.cornell.edu/courses/CS5142/2013fa/,Scripting Languages Cornell University.,,,,279
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS5142/2013fa/#schedule,,,,,282
+Courses,,CS 5470,https://matt.might.net/teaching/compilers/spring-2015/,Compilers University of Utah.,,,,284
+Courses,,fantastic blog,https://matt.might.net/articles/,"If you're a fan of Prof Matt's writing on his  you ought to give this a shot. The course covers the design and implementation of compilers, and it explores related topics such as interpreters, virtual machines and runtime systems. Aside from the Prof's witty take on cheating the page has tons of interesting links on programming languages, parsing and compilers.",,,,285
+Courses,,Lecture Notes,https://www.dropbox.com/sh/zanwtoflw4pcfu8/5pdT6axS3y,,,,,286
+Courses,,Projects,https://matt.might.net/teaching/compilers/spring-2015/#projects,,,,,287
+Courses,,CS 6118,https://www.cs.cornell.edu/courses/CS6118/2012fa/,Types and Semantics Cornell University.,,,,288
+Courses,,CSC 253,http://pgbovine.net/cpython-internals.htm,CPython internals: A ten-hour codewalk through the Python interpreter source code University of Rochester.,,,,292
+Courses,,CSE 341,https://courses.cs.washington.edu/courses/cse341/16sp/,Programming Languages University of Washington.,,,,294
+Courses,,Lectures and Videos,https://courses.cs.washington.edu/courses/cse341/16sp/#lectures,,,,,296
+Courses,,Assignments and Tests,https://courses.cs.washington.edu/courses/cse341/16sp/#homeworks,,,,,297
+Courses,,CSE P 501,https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html,Compiler Construction University of Washington.,,,,298
+Courses,,"Assignments, Tests, and Solutions",https://courses.cs.washington.edu/courses/csep501/09au/homework/index.html,,,,,301
+Courses,,DMFP,https://cs.wheaton.edu/~tvandrun/dmfp/,Discrete Mathematics and Functional Programming Wheaton College.,,,,302
+Courses,,Assignments,https://cs.wheaton.edu/~tvandrun/dmfp/source.html,,,,,305
+Courses,,PCPP,https://www.itu.dk/people/sestoft/itu/PCPP/E2015/,Practical Concurrent and Parallel Programming IT University of Copenhagen.,,,,306
+Courses,,6.945,https://groups.csail.mit.edu/mac/users/gjs/6.945/index.html,Adventures in Advanced Symbolic Programming MIT.,,,,312
+Courses,,Assignments,https://groups.csail.mit.edu/mac/users/gjs/6.945/assignments.html,"Extensive programming assignments, using MIT/GNU Scheme. Students should have significant programming experience in Scheme, Common Lisp, Haskell, CAML or other ""functional"" language.",,,,314
+Courses,,Readings,https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/,,,,,315
+Courses,,CS 696,https://www.eli.sdsu.edu/courses/fall15/cs696/index.html,Functional Design and Programming San Diego State University.,,,,316
+Courses,,L28,https://www.cl.cam.ac.uk/teaching/1516/L28/,Advanced Functional Programming University of Cambridge.,,,,320
+Courses,,CS 61B,http://datastructur.es/sp16/,Structures UC Berkeley.,Data,,,328
+Courses,,Resources,http://datastructur.es/sp16/resources.html,"Full Lecture Materials Lecture of Spring 2016. This website contains full matrials including video links, labs, homeworks, projects. Very good for self-learner. Also a good start for Java. And it includes some other useful resources for Java Documentation, Data Structure Resources, Git/GitHub and Java Development Resources. .",,,,330
+Courses,,Labs,https://www.cs.berkeley.edu/~jrs/61b/lab/index.html,The link to labs and projects is included in the website.,,,,331
+Courses,,Lecture Videos,https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iC2Khb1B5NnbE7SHPQ1-W17,,,,,332
+Courses,,CS 97SI,https://web.stanford.edu/class/cs97si/,Introduction to Competitive Programming Stanford University.,,,,333
+Courses,,Lectures and Assignments,https://github.com/jaehyunp/stanfordacm,"★ 1,664 stars, last push 2020-12-24.",,,,335
+Courses,,CS 224,http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html,Advanced Algorithms Harvard University.,,,,336
+Courses,,Lecture Videos,http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html,(Youtube).,,,,338
+Courses,,Assignments,http://people.seas.harvard.edu/~minilek/cs224/fall14/hmwk.html,,,,,339
+Courses,,CS 261,https://theory.stanford.edu/~tim/w16/w16.html,A Second Course in Algorithms Stanford University.,,,,340
+Courses,,Youtube,https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc,"Lecture Notes, Videos & Assignments ().",,,,342
+Courses,,CS 473/573,https://jeffe.cs.illinois.edu/teaching/algorithms/,"Fundamental Algorithms Univ of Illinois, Urbana-Champaign.",,,,343
+Courses,,Lecture Notes,http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-algorithms.pdf,,,,,345
+Courses,,Labs and Exams,http://web.engr.illinois.edu/~jeffe/teaching/algorithms/all-hwex.pdf,,,,,346
+Courses,,CS 2150,https://github.com/aaronbloomfield/pdr,Program & Data Representation University of Virginia.,,122,2026-03-25,347
+Courses,,Lectures,https://aaronbloomfield.github.io/pdr/slides/,,,,,349
+Courses,,Assignments,https://aaronbloomfield.github.io/pdr/labs/,,,,,350
+Courses,,CS 4820,https://www.cs.cornell.edu/courses/CS4820/2015sp/,Introduction to Analysis of Algorithms Cornell University.,,,,351
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS4820/2015sp/lectures/,,,,,353
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS4820/2015sp/syllabus/,,,,,354
+Courses,,CSCI 104,http://www-scf.usc.edu/~csci104/20142/lectures/,Structures and Object Oriented Design.   University of Southern California (USC).,Data,,,355
+Courses,,Labs,http://www-scf.usc.edu/~csci104/20142/labs,,,,,357
+Courses,,Assignments,http://www-scf.usc.edu/~csci104/20142/assignments/,,,,,358
+Courses,,Additional Resources,http://www-scf.usc.edu/~csci104/20142/resources.html,,,,,359
+Courses,,CSCI 135,http://compsci.hunter.cuny.edu/~sweiss/courses/csci135.php,Software Design and Analysis I.  CUNY Hunter College.,,,,360
+Courses,,Lectures and Assignments,http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci135/csci135_36_fall12.php,,,,,363
+Courses,,CSCI 235,http://compsci.hunter.cuny.edu/~sweiss/courses/csci235.php,Software Design and Analysis II CUNY Hunter College.,,,,364
+Courses,,Lectures and Assignments,http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci235/csci235_f14.php,,,,,366
+Courses,,CSCI 335,http://compsci.hunter.cuny.edu/~sweiss/courses/csci335.php,Software Design and Analysis III.  CUNY Hunter College.,,,,367
+Courses,,Lectures and Assignments,http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci335/csci335_s14.php,,,,,370
+Courses,,CSE 331,https://courses.cs.washington.edu/courses/cse331/15sp/,Software Design and Implementation University of Washington.,,,,371
+Courses,,"Lectures, Assignments, and Exams",https://courses.cs.washington.edu/courses/cse331/15sp/#all,,,,,373
+Courses,,CSE 373,https://www3.cs.stonybrook.edu/~skiena/373/,Analysis of Algorithms Stony Brook University.,,,,374
+Courses,,book,https://www.algorist.com/,"Prof Steven Skiena's no stranger to any student when it comes to algorithms. His seminal  has been touted by many to be best for getting that job in Google. In addition, he's also well-known for tutoring students in competitive programming competitions. If you're looking to brush up your knowledge on Algorithms, you can't go wrong with this course.",,,,375
+Courses,,Lecture Videos,http://www.cs.sunysb.edu/~algorith/video-lectures/,,,,,376
+Courses,,ECS 122A,https://web.cs.ucdavis.edu/~gusfield/cs122f10/,Algorithm Design and Analysis UC Davis.,,,,377
+Courses,,Dan Gusfield,https://web.cs.ucdavis.edu/~gusfield/,"Taught by  in 2010, this course is an undergraduate introduction to algorithm design and analysis. It features traditional topics, such as Big Oh notation, as well as an importance on implementing specific algorithms. Also featured are sorting (in linear time), graph algorithms, depth-first search, string matching, dynamic programming, NP-completeness, approximation, and randomization.",,,,378
+Courses,,Syllabus,https://web.cs.ucdavis.edu/~gusfield/cs122f10/syll122.pdf,,,,,379
+Courses,,Lecture Videos,https://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html,,,,,380
+Courses,,ECS 222A,https://web.cs.ucdavis.edu/~gusfield/cs222w11/,Graduate Level Algorithm Design and Analysis UC Davis.,,,,382
+Courses,,Lecture Videos,https://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html,,,,,384
+Courses,,Syllabus,https://web.cs.ucdavis.edu/~gusfield/cs222w11/syll11.pdf,,,,,385
+Courses,,6.INT,https://courses.csail.mit.edu/iap/interview/index.php,Hacking a Google Interview MIT.,,,,387
+Courses,,Handouts,https://courses.csail.mit.edu/iap/interview/materials.php,,,,,389
+Courses,,Topics Covered,https://courses.csail.mit.edu/iap/interview/calendar.php,,,,,390
+Courses,,6.006,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm,Introduction to Algorithms MIT.,,,,391
+Courses,,Lecture Videos,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/,,,,,393
+Courses,,Assignments,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/,,,,,394
+Courses,,Readings,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/,,,,,395
+Courses,,Resources,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/download-course-materials/,,,,,396
+Courses,,Old Exams,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/exams/,,,,,397
+Courses,,6.046J/18.410J,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm,Design and Analysis of Algorithms MIT.,,,,398
+Courses,,Lecture Videos,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/,,,,,400
+Courses,,Lecture Notes,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-notes/,,,,,401
+Courses,,Assignments,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/assignments/,,,,,402
+Courses,,Resources,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/download-course-materials/,,,,,403
+Courses,,Old Exams,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/exams/,,,,,404
+Courses,,6.851,https://courses.csail.mit.edu/6.851/spring21/index.html,Advanced Data Structures MIT.,,,,405
+Courses,,Lectures,https://courses.csail.mit.edu/6.851/spring21/lectures/,"Contains videos from sp2012 version, but there isn't much difference.",,,,407
+Courses,,Assignments,https://courses.csail.mit.edu/6.851/spring21/psets/,Contains the calendar as well.,,,,408
+Courses,,6.854/18.415J,https://courses.csail.mit.edu/6.854/current/,Advanced Algorithms MIT.,,,,409
+Courses,,NB,http://nb.mit.edu/subscribe?key=D3a8CYpoO2VcR1ZcfaxmR5KbyjCGXd3INNXvL3mxEakYJ7qGJw,on  - To access the problem set and lectures.,Register,,,411
+Courses,,6.854J/18.415J,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/index.htm,Advanced Algorithms MIT.,,,,412
+Courses,,Lecture Videos - Spring 2016,https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c,,,,,414
+Courses,,Lecture Notes,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/,,,,,415
+Courses,,Assignments,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/assignments/,,,,,416
+Courses,,Readings,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/readings/,,,,,417
+Courses,,Resources,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/download-course-materials/,,,,,418
+Courses,,15-451/651,https://www.cs.cmu.edu/afs/cs/academic/class/15451-f10/www/,Algorithms Carnegie Mellon University.,,,,419
+Courses,,Manuel Blum,https://en.wikipedia.org/wiki/Manuel_Blum,The required algorithms class that go in depth into all basic algorithms and the proofs behind them. This is one of the heavier algorithms curriculums on this page. Taught by Avrim Blum and  who has a Turing Award due to his contributions to algorithms. Course link includes a very comprehensive set of reference notes by Avrim Blum.,,,,420
+Courses,,16s-4102,https://www.cs.virginia.edu/~shelat/16s-4102/,Algorithms University of Virginia.,,,,421
+Courses,,Youtube,https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos,Lecture Videos & Homeworks ().,,,,422
+Courses,,CIS 500,http://www.seas.upenn.edu/~cis500/cis500-f14/index.html,Software Foundations University of Pennsylvania.,,,,428
+Courses,,Lectures and Assignments,http://www.seas.upenn.edu/~cis500/cis500-f14/index.html#schedule,,,,,430
+Courses,,Textbook,https://www.cis.upenn.edu/~bcpierce/sf/current/index.html,,,,,431
+Courses,,CS 103,https://web.stanford.edu/class/cs103/,Mathematical Foundations of Computing Stanford University.,,,,432
+Courses,,CS 173,https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/index.html,Discrete Structures Univ of Illinois Urbana-Champaign.,,,,435
+Courses,,Textbook,http://web.engr.illinois.edu/~mfleck/building-blocks/,Written by the professor. Includes Instructor's Guide.,,,,437
+Courses,,Assignments,https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Homework/index.html,,,,,438
+Courses,,Exams,https://courses.engr.illinois.edu/cs173/fa2014/A-lecture/Exams/index.html,,,,,439
+Courses,,CS 276,http://www.cs.berkeley.edu/~sanjamg/classes/cs276-fall14/,Foundations of Cryptography UC Berkeley.,,,,440
+Courses,,CS 278,http://www.cs.berkeley.edu/~luca/cs278-08/,Complexity Theory UC Berkeley.,,,,442
+Courses,,CS 374,https://courses.engr.illinois.edu/cs498374/fa2014/,Algorithms & Models of Computation (Fall 2014) University of Illinois Urbana-Champaign.,,,,444
+Courses,,Assignments/Exams,https://courses.engr.illinois.edu/cs498374/fa2014/work.html,,,,,446
+Courses,,Lecture Notes/Labs,https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html,,,,,447
+Courses,,Lecture videos,http://recordings.engineering.illinois.edu/ess/portal/section/115f3def-7371-4e98-b72f-6efe53771b2a,,,,,448
+Courses,,CS 3110,https://www.cs.cornell.edu/courses/CS3110/2014fa/,Structures and Functional Programming Cornell University.,Data,,,449
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS3110/2014fa/course_info.php,,,,,451
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS3110/2014fa/lecture_notes.php,,,,,452
+Courses,,CS 3220,https://www.cs.cornell.edu/~bindel/class/cs3220-s12/,Introduction to Scientific Computing Cornell University.,,,,454
+Courses,,Syllabus,https://www.cs.cornell.edu/~bindel/class/cs3220-s12/syllabus.html,,,,,456
+Courses,,Lectures,https://www.cs.cornell.edu/~bindel/class/cs3220-s12/lectures.html,,,,,457
+Courses,,Assignments,https://www.cs.cornell.edu/~bindel/class/cs3220-s12/assignments.html,,,,,458
+Courses,,CS 4300,https://www.cs.cornell.edu/courses/CS4300/2013fa/,Information Retrieval Cornell University.,,,,459
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS4300/2013fa/lectures/introduction.pdf,,,,,461
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm,,,,,462
+Courses,,CS 4810,https://www.dsteurer.org/toc13/,Introduction to Theory of Computing Cornell University.,,,,464
+Courses,,Syllabus,https://www.dsteurer.org/toc13/syllabus/,,,,,466
+Courses,,Lectures,https://www.dsteurer.org/toc13/lectures/,,,,,467
+Courses,,Assignments,https://www.dsteurer.org/toc13/homework/,,,,,468
+Courses,,CS 6810,https://complexity16.dsteurer.org/,Theory of Computing Cornell University.,,,,469
+Courses,,Syllabus,https://complexity16.dsteurer.org/syllabus/,,,,,477
+Courses,,Lectures,https://complexity16.dsteurer.org/lectures/,,,,,478
+Courses,,Assignments,https://complexity16.dsteurer.org/homework/,,,,,479
+Courses,,CSCE 3193,http://www.csce.uark.edu/~sgauch/3193/S11/index.html,Programming Paradigms University of Arkansas (Fayetteville).,,,,480
+Courses,,Syllabus,http://www.csce.uark.edu/~sgauch/3193/S11/syllabus.html,,,,,482
+Courses,,Notes,http://www.csce.uark.edu/~sgauch/3193/S11/notes/index.html,,,,,483
+Courses,,Assignments,http://www.csce.uark.edu/~sgauch/3193/S11/hw/index.html,,,,,484
+Courses,,Practice Exams,http://www.csce.uark.edu/~sgauch/3193/S11/exams/index.html,,,,,485
+Courses,,6.045,https://stellar.mit.edu/S/course/6/sp15/6.045/index.html,Great Ideas in Theoretical Computer Science MIT.,,,,486
+Courses,,Syllabus,https://stellar.mit.edu/S/course/6/sp15/6.045/courseMaterial/topics/topic1/syllabus/syllabus2015/syllabus2015.pdf,,,,,488
+Courses,,Lecture Notes,https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html,,,,,489
+Courses,,Lecture Videos,http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html,,,,,490
+Courses,,CS 10,https://inst.eecs.berkeley.edu/~cs10/fa14/,The Beauty and Joy of Computing UC Berkeley.,,,,496
+Courses,,Snap*!*,https://snap.berkeley.edu,(Based on Scratch by MIT).,,,,498
+Courses,,Curriculum,https://bjc.berkeley.edu,,,,,499
+Courses,,CS 50,https://cs50.harvard.edu/,Introduction to Computer Science Harvard University.,,,,500
+Courses,,Lectures,"https://cs50.tv/2017/fall/#about,lectures",,,,,502
+Courses,,Problem Sets,"https://cs50.tv/2017/fall/#about,psets",,,,,503
+Courses,,edX,https://www.edx.org/course/introduction-computer-science-harvardx-cs50x,The course can also be taken from .,,,,504
+Courses,,here,https://cs50.tv,The course's OpenCourseware resides .,,,,505
+Courses,,CS 61A,https://cs61a.org/,Structure and Interpretation of Computer Programs [Python] UC Berkeley.,,,,506
+Courses,,Lecture Videos,http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61a-spring2014-berkeley.html,,,,,508
+Courses,,Lecture Resources by Type,https://cs61a.org/by_type.html,,,,,509
+Courses,,Lecture Resources by Topic,https://cs61a.org/by_topic.html,,,,,510
+Courses,,Additional Resources,https://cs61a.org/articles/resources.html,,,,,511
+Courses,,Practice Problems,https://cs61a.org/problems/,,,,,512
+Courses,,Extra Lectures,https://cs61a.org/extra.html,,,,,513
+Courses,,CS 61AS,https://berkeley-cs61as.github.io/,Structure & Interpretation of Computer Programs [Racket] UC Berkeley.,,,,514
+Courses,,Lecture Videos,https://www.youtube.com/course?category=University%2FEngineering%2FComputer%2520Science%2FProgramming%2520Languages&list=EC6D76F0C99A731667,,,,,516
+Courses,,Assignments and Notes,https://berkeley-cs61as.github.io/textbook.html,,,,,517
+Courses,,CS 101,https://online.stanford.edu/course/computer-science-101-self-paced,Computer Science 101 Stanford University.,,,,518
+Courses,,CS 106A,https://see.stanford.edu/Course/CS106A,Programming Methodology Stanford University.,,,,521
+Courses,,All materials in a zip file,https://see.stanford.edu/materials/icspmcs106a/ProgrammingMethodologyAllMaterials.zip,,,,,525
+Courses,,CS 106B,https://see.stanford.edu/Course/CS106B,Programming Abstractions Stanford University.,,,,526
+Courses,,All materials in a zip file,https://see.stanford.edu/materials/icspacs106b/ProgrammingAbstractionsAllMaterials.zip,,,,,530
+Courses,,CS 107,https://see.stanford.edu/Course/CS107,Programming Paradigms Stanford University.,,,,531
+Courses,,CS 109,https://otfried.org/courses/cs109/index.html,Programming Practice Using Scala KAIST.,,,,535
+Courses,,CS 1109,https://www.cs.cornell.edu/courses/CS1109/2013su/,Fundamental Programming Concepts Cornell University.,,,,539
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS1109/2013su/syllabus.html,,,,,541
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS1109/2013su/calendar.html,,,,,542
+Courses,,CS 1110,https://www.cs.cornell.edu/courses/CS1110/2014fa/,Introduction to Computing Using Python Cornell University.,,,,544
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS1110/2014fa/about/grading.php,,,,,546
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS1110/2014fa/lectures/index.php,,,,,547
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS1110/2014fa/assignments/index.php,,,,,548
+Courses,,CS 1112,https://www.cs.cornell.edu/courses/CS1112/2014fa/,Introduction to Computing Using Matlab Cornell University.,,,,549
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS1112/2014fa/syllabus.html,,,,,551
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS1112/2014fa/syllabus.html#schedule,,,,,552
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS1112/2014fa/Exercises/exercises.html,,,,,553
+Courses,,Projects,https://www.cs.cornell.edu/courses/CS1112/2014fa/Projects/projects.html,,,,,554
+Courses,,CS 1115,https://www.cs.cornell.edu/courses/CS1115/2013fa/,Introduction to Computational Science and Engineering Using Matlab Graphical User Interfaces Cornell University.,,,,555
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS1115/2013fa/syllabus.htm,,,,,557
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS1115/2013fa/lecture_slides.htm,,,,,558
+Courses,,Projects,https://www.cs.cornell.edu/courses/CS1115/2013fa/projects_and_exams.htm,,,,,559
+Courses,,CS 1130,http://www.cs.cornell.edu/courses/CS1130/2014sp/,Transition to OO Programming Cornell University.,,,,560
+Courses,,Syllabus,http://www.cs.cornell.edu/courses/CS1130/2014sp/about/overview.php,,,,,562
+Courses,,Lectures,http://www.cs.cornell.edu/courses/CS1130/2014sp/web-lectures/index.php,,,,,563
+Courses,,Assignments,http://www.cs.cornell.edu/courses/CS1130/2014sp/assignments/index.php,,,,,564
+Courses,,CS 1133,http://www.cs.cornell.edu/courses/CS1133/2013fa/,Transition to Python Cornell University.,,,,565
+Courses,,Syllabus,http://www.cs.cornell.edu/courses/CS1133/2013fa/about/overview.php,,,,,567
+Courses,,Lectures,http://www.cs.cornell.edu/courses/CS1133/2013fa/lectures/index.php,,,,,568
+Courses,,Assignments,http://www.cs.cornell.edu/courses/CS1133/2013fa/assignments/index.php,,,,,569
+Courses,,CS 1410-2,https://www.eng.utah.edu/~cs1410-20/,And CS2420-20 Computer Science I and II for Hackers University of Utah.,,,,570
+Courses,,Professor Matthew Flatt,https://www.cs.utah.edu/~mflatt/,"An intro course in the spirit of SICP designed by  (one of the lead designers of Racket and author of HtDP). Mostly Racket and C, and a bit of Java, with explanations on how high level functional programming concepts relate to the design of OOP programs. Do this one before SICP if SICP is a bit too much...",,,,571
+Courses,,Lectures and Assignments 1,https://www.eng.utah.edu/~cs1410-20/schedule.html,,,,,572
+Courses,,Lectures and Assignments 2,https://www.eng.utah.edu/~cs2420-20/schedule.html,,,,,573
+Courses,,Textbook,https://htdp.org/2003-09-26/Book/curriculum.html,,,,,574
+Courses,,Racket Language,https://racket-lang.org/,,,,,575
+Courses,,CS 2110,https://www.cs.cornell.edu/courses/CS2110/2014fa/index.html,Object-Oriented Programming and Data Structures Cornell University.,,,,576
+Courses,,lectures,https://www.cs.cornell.edu/courses/CS2110/2014fa/lecturenotes.html,"CS 2110 is an intermediate-level programming course and an introduction to computer science. Topics include program design and development, debugging and testing, object-oriented programming, proofs of correctness, complexity analysis, recursion, commonly used data structures, graph algorithms, and abstract data types. Java is the principal programming language. The course syllabus can easily be extracted by looking at the link to .",,,,577
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS2110/2014fa/assignments.html,,,,,580
+Courses,,CS 4302,http://courses2.cit.cornell.edu/info4302_2012fa/,Web Information Systems Cornell University.,,,,581
+Courses,,Syllabus,http://courses2.cit.cornell.edu/info4302_2012fa/course_information.php,,,,,583
+Courses,,Lectures,http://courses2.cit.cornell.edu/info4302_2012fa/lectures.php,,,,,584
+Courses,,Assignments,http://courses2.cit.cornell.edu/info4302_2012fa/homeworks.php,,,,,585
+Courses,,CSCE 2004,http://www.csce.uark.edu/~sgauch/2004/S14/index.html,Programming Foundations I University of Arkansas (Fayetteville).,,,,586
+Courses,,Syllabus,http://www.csce.uark.edu/~sgauch/2004/S14/syllabus.html,,,,,588
+Courses,,Notes,http://www.csce.uark.edu/~sgauch/2004/S14/notes/index.html,,,,,589
+Courses,,Assignments,http://www.csce.uark.edu/~sgauch/2004/S14/hw/index.html,,,,,590
+Courses,,CSCI E-1,https://cse1.net/lectures,Understanding Computers and the Internet Harvard University Extension College.,,,,592
+Courses,,Syllabus,https://cse1.net/syllabus,,,,,596
+Courses,,Notes / Recaps,https://cse1.net/recaps,,,,,597
+Courses,,Assignments,https://cse1.net/psets,,,,,598
+Courses,,CS-for-all,https://www.cs.hmc.edu/csforall/,CS for All  Harvey Mudd College.,,,,599
+Courses,,Lectures and Other resources,https://www.cs.hmc.edu/twiki/bin/view/ModularCS1,,,,,601
+Courses,,6.001,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm,Structure and Interpretation of Computer Programs MIT.,,,,602
+Courses,,Lectures,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures,,,,,604
+Courses,,Textbook,https://mitpress.mit.edu/sicp/full-text/book/book.html,"(Epub, pdf).",,,,605
+Courses,,IDE,https://www.neilvandyke.org/racket-sicp/,,,,,606
+Courses,,6.005,https://web.mit.edu/6.005/www/fa16/,"Software Construction, Fall 2016 MIT.",,,,607
+Courses,,DEEPNLP,https://github.com/oxford-cs-deepnlp-2017/,Deep Learning for Natural Language Processing University of Oxford.,,,,616
+Courses,,Lectures,https://github.com/oxford-cs-deepnlp-2017/lectures,"★ 15,856 stars, last push 2023-07-02.",,,,618
+Courses,,CS20si,https://web.stanford.edu/class/cs20si/index.html,Tensorflow for Deep Learning Research Stanford University.,,,,620
+Courses,,Assignments,https://github.com/chiphuyen/tf-stanford-tutorials,Available on Github.,,10372,,622
+Courses,,COMS 4771,https://www.cs.columbia.edu/~jebara/4771/index.html,Machine Learning Columbia University.,,,,623
+Courses,,Tony Jebara,https://www.cs.columbia.edu/~jebara/resume.html,"Course taught by  introduces topics in Machine Learning for both generative and discriminative estimation. Material will include least squares methods, Gaussian distributions, linear classification, linear regression, maximum likelihood, exponential family distributions, Bayesian networks, Bayesian inference, mixture models, the EM algorithm, graphical models, hidden Markov models, support vector machines, and kernel methods.",,,,624
+Courses,,Lectures and Assignments,https://www.cs.columbia.edu/~jebara/4771/handouts.html,,,,,625
+Courses,,CS 109,https://cs109.github.io/2015/,Science Harvard University.,Data,,,626
+Courses,,Lectures,http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml,,,,,628
+Courses,,Slides,https://cs109.github.io/2014/pages/schedule.html,,,,,629
+Courses,,Labs and Assignments,https://cs109.github.io/2014/pages/homework.html,,,,,630
+Courses,,2014 Lectures,https://cs109.github.io/2014/,,,,,631
+Courses,,2013 Lectures,http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml,(Slightly better).,,,,632
+Courses,,CS 156,https://work.caltech.edu/telecourse.html,Learning from Data Caltech.,,,,633
+Courses,,Lectures,https://work.caltech.edu/lectures.html,,,,,635
+Courses,,Homework,https://work.caltech.edu/homeworks.html,,,,,636
+Courses,,Textbook,https://work.caltech.edu/textbook.html,,,,,637
+Courses,,CS 189,https://www.eecs189.org/,Introduction To Machine Learning UC Berkeley.,,,,638
+Courses,,CS 224d,https://cs224d.stanford.edu/,Deep Learning for Natural Language Processing Stanford University.,,,,642
+Courses,,Syllabus,https://cs224d.stanford.edu/syllabus.html,,,,,644
+Courses,,CS 229r,http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html,Algorithms for Big Data Harvard University.,,,,646
+Courses,,Lectures,http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html,(Youtube).,,,,648
+Courses,,Assignments,http://people.seas.harvard.edu/~minilek/cs229r/fall15/hmwk.html,,,,,649
+Courses,,CS 231n,https://cs231n.stanford.edu/,Convolutional Neural Networks for Visual Recognition Stanford University.,,,,650
+Courses,,Lecture Notes,https://cs231n.stanford.edu/syllabus.html,,,,,652
+Courses,,Lecture Videos,https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC,,,,,653
+Courses,,Github Page,https://cs231n.github.io/,,,,,654
+Courses,,CS 287,https://www.cs.berkeley.edu/~pabbeel/cs287-fa13/,Advanced Robotics UC Berkeley.,,,,655
+Courses,,Lectures Notes,https://www.cs.berkeley.edu/~pabbeel/cs287-fa13/#syllabus,,,,,657
+Courses,,Assignments,https://www.cs.berkeley.edu/~pabbeel/cs287-fa13/#assignments,,,,,658
+Courses,,CS 395T,http://www.nr.com/CS395T/,Statistical and Discrete Methods for Scientific Computing University of Texas.,,,,659
+Courses,,Lectures and Assignments,http://wpressutexas.net/forum/,,,,,662
+Courses,,CS 4780,https://www.cs.cornell.edu/courses/CS4780/2014fa/,Machine Learning Cornell University.,,,,663
+Courses,,CS 4786,https://www.cs.cornell.edu/courses/CS4786/2015sp/index.htm,Machine Learning for Data Science Cornell University.,,,,667
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS4786/2015sp/assignments.htm,,,,,673
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS4786/2015sp/lectures.htm,,,,,674
+Courses,,CVX 101,https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info,Convex Optimization Stanford University.,,,,675
+Courses,,Textbook,https://web.stanford.edu/~boyd/cvxbook/,,,,,677
+Courses,,Lectures and Assignments,https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/,,,,,678
+Courses,,DS-GA 1008,https://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule,Deep Learning New York University.,,,,679
+Courses,,Yann Lecun,http://yann.lecun.com/,"This increasingly popular course is taught through the Data Science Center at NYU. Originally introduced by , it is now led by Zaid Harchaoui, although Prof. Lecun is rumored to still stop by from time to time. It covers the theory, technique, and tricks that are used to achieve very high accuracy for machine learning tasks in computer vision and natural language processing. The assignments are in Lua and hosted on Kaggle.",,,,680
+Courses,,Recorded Lectures,http://techtalks.tv/deep-learning-nyu-spring-2015/,,,,,682
+Courses,,EECS E6893 & EECS E6895,https://www.ee.columbia.edu/~cylin/course/bigdata/,Big Data Analytics & Advanced Big Data Analytics Columbia University.,,,,683
+Courses,,Dr. Ching-Yung Lin,http://researcher.watson.ibm.com/researcher/view.php?person=us-chingyung,Taught by .,,,,685
+Courses,,EECS E6894,https://llcao.net/cu-deeplearning15/index.html,Deep Learning for Computer Vision and Natural Language Processing Columbia University.,,,,688
+Courses,,Readings,http://llcao.net/cu-deeplearning15/reading.html,,,,,690
+Courses,,Assignments,https://llcao.net/cu-deeplearning15/programming_problem.html,,,,,691
+Courses,,EE103,https://stanford.edu/class/ee103/,Introduction to Matrix Methods Stanford University.,,,,693
+Courses,,Stephen Boyd,https://stanford.edu/~boyd/,"The course covers the basics of matrices and vectors, solving linear equations, least-squares methods, and many applications. It'll cover the mathematics, but the focus will be on using matrix methods in applications such as tomography, image processing, data fitting, time series prediction, finance, and many others. EE103 is based on a book that  and Lieven Vandenberghe are currently writing. Students will use a new language called Julia to do computations with matrices and vectors.",,,,694
+Courses,,Lectures,https://stanford.edu/class/ee103/lectures.html,,,,,695
+Courses,,Book,https://stanford.edu/class/ee103/mma.html,,,,,696
+Courses,,Assignments,https://stanford.edu/class/ee103/homework.html,,,,,697
+Courses,,Code,https://stanford.edu/class/ee103/julia_files,,,,,698
+Courses,,Fast.ai Introduction to Machine Learning for Coders,http://course.fast.ai/ml.html,Fast.ai / University of San Francisco.,,,,699
+Courses,,Lecture Videos,http://course.fast.ai/lessonsml1/lessonsml1.html,,,,,701
+Courses,,Lecture Notes,https://medium.com/@hiromi_suenaga/machine-learning-1-lesson-1-84a1dc2b5236,,,,,702
+Courses,,Jupyter Notebooks,https://github.com/fastai/fastai/tree/master/courses/ml1,"★ 28,192 stars, last push 2026-09-21.",,,,703
+Courses,,Info 290,https://www.ischool.berkeley.edu/courses/i290-abdt,Analyzing Big Data with Twitter UC Berkeley school of information.,,,,704
+Courses,,Lecture Videos,http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963,,,,,706
+Courses,,Previous Years coursepage,https://blogs.ischool.berkeley.edu/i290-abdt-s12/,,,,,707
+Courses,,Machine Learning: 2014-2015,https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/,University of Oxford.,,,,708
+Courses,,Torch,https://github.com/torch/torch7/wiki/Cheatsheet,"The course focusses on neural networks and uses the  deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning.",,,,709
+Courses,,Source code,https://github.com/oxford-cs-ml-2015/,,,,,711
+Courses,,StatLearning,https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about,Intro to Statistical Learning Stanford University.,,,,712
+Courses,,"An Introduction to Statistical Learning, with Applications in R",http://www-bcf.usc.edu/~gareth/ISL/,The lectures cover all the material in  which is a more approachable version of the Elements of Statistical Learning (or ESL) book.,,,,714
+Courses,,10-601,https://www.cs.cmu.edu/~ninamf/courses/601sp15/,Machine Learning Carnegie Mellon University.,,,,715
+Courses,,Lectures,https://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml,,,,,718
+Courses,,Project Ideas and Datasets,https://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml,,,,,719
+Courses,,10-708,https://www.cs.cmu.edu/~epxing/Class/10708-14/index.html,Probabilistic Graphical Models Carnegie Mellon University.,,,,720
+Courses,,Lecture Videos,https://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html,,,,,722
+Courses,,Assignments,https://www.cs.cmu.edu/~epxing/Class/10708-14/homework.html,,,,,723
+Courses,,11-785,https://deeplearning.cs.cmu.edu/,Deep Learning Carnegie Mellon University.,,,,726
+Courses,,CS246,https://web.stanford.edu/class/cs246/,Mining Massive Data Sets Stanford University.,,,,728
+Courses,,Lecture Videos,http://www.mmds.org/#mooc,,,,,730
+Courses,,Assignments,https://web.stanford.edu/class/cs246/handouts.html,,,,,731
+Courses,,Readings,http://www.mmds.org/#book,,,,,733
+Courses,,CS276,https://web.stanford.edu/class/cs276/index.html,Information Retrieval and Web Search Stanford University.,,,,734
+Courses,,Lecture notes,https://web.stanford.edu/class/cs276/index.html#syllabus,,,,,736
+Courses,,Readings,https://web.stanford.edu/class/cs276/index.html#books,,,,,737
+Courses,,Practical_RL,https://github.com/yandexdataschool/Practical_RL,Reinforcement Learning in the Wild Yandex SDA.,,6581,2026-03-31,738
+Courses,,Syllabus,https://github.com/yandexdataschool/Practical_RL#syllabus,"★ 6,581 stars, last push 2026-03-31.",,,,740
+Courses,,UvA DEEP LEARNING,https://uvadlc.github.io/,University of Amsterdam.,,,,741
+Courses,,Lecture Videos & Notes,https://uvadlc.github.io/#lecture,,,,,743
+Courses,,Practicals,https://uvadlc.github.io/#practicals,,,,,744
+Courses,,Readings,https://uvadlc.github.io/#other-links,,,,,745
+Courses,,CIS 4930 / CIS 5930,http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/,Offensive Computer Security Florida State University.,,,,750
+Courses,,W. Owen Redwood,https://ww2.cs.fsu.edu/~redwood/,"Course taught by  and Xiuwen Liu. It covers a wide range of computer security topics, starting from Secure C Coding and Reverse Engineering to Penetration Testing, Exploitation and Web Application Hacking, both from the defensive and the offensive point of view.",,,,751
+Courses,,Lectures and Videos,http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html,,,,,752
+Courses,,Assignments,http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/assignments.html,,,,,753
+Courses,,CS 155,https://crypto.stanford.edu/cs155/,Computer and Network Security Stanford.,,,,754
+Courses,,CS 161,http://www-inst.eecs.berkeley.edu/~cs161/sp15/,Computer Security UC Berkeley.,,,,756
+Courses,,CS 259,https://courseware.stanford.edu/pg/courses/331628/cs259-winter-2013,Security Modeling and Analysis Stanford.,,,,758
+Courses,,CS 261,https://www.icir.org/vern/cs261n-Sp14/,Internet/Network Security UC Berkeley.,,,,760
+Courses,,CS 5430,https://www.cs.cornell.edu/courses/CS5430/2013sp/,System Security Cornell University.,,,,762
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS5430/2013sp/01.intro.html,,,,,764
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS5430/2013sp/02.outline.html,,,,,765
+Courses,,CSCI 4968,https://github.com/RPISEC/MBE,Modern Binary Exploitation Rensselaer Polytechnic Institute.,,6052,2021-12-09,767
+Courses,,RPISEC,https://rpis.ec,"This repository contains the materials as developed and used by  to.teach Modern Binary Exploitation at Rensselaer Polytechnic Institute in.Spring 2015. This was a university course developed and run solely by students to teachskills in vulnerability research, reverse engineering, and binary exploitation.",,,,768
+Courses,,Lectures Notes,http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/,,,,,772
+Courses,,Labs,https://github.com/RPISEC/MBE/tree/master/src,"★ 6,052 stars, last push 2021-12-09.",,,,773
+Courses,,CSCI 4976,https://github.com/RPISEC/Malware,Malware Analysis Rensselaer Polytechnic Institute.,,4070,2022-08-26,775
+Courses,,Practical Malware Analysis,https://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901,"This repository contains the materials as developed and used by RPISEC toteach Malware Analysis at Rensselaer Polytechnic Institute inFall 2015. This was a university course developed and run solely by students, primarily using the.book by Michael Sikorski and Andrew Honig, to teach skills in reverse engineering, malicious behaviour, malware,and anti-analysis techniques.",,,,776
+Courses,,EECS 588,https://www.eecs.umich.edu/courses/eecs588/,Computer & Network Security University of Michigan.,,,,782
+Courses,,J. Alex Halderman,https://jhalderm.com/,Taught by  who has analyzed the security of Electronic Voting Machines in the US and over seas.,,,,783
+Courses,,Readings,https://www.eecs.umich.edu/courses/eecs588/readings.html,,,,,785
+Courses,,Lectures Notes,https://github.com/RPISEC/Malware/tree/master/Lectures,"★ 4,070 stars, last push 2022-08-26.",,,,786
+Courses,,Labs,https://github.com/RPISEC/Malware/tree/master/Labs,"★ 4,070 stars, last push 2022-08-26.",,,,787
+Courses,,Projects,https://github.com/RPISEC/Malware/tree/master/Projects,"★ 4,070 stars, last push 2022-08-26.",,,,788
+Courses,,6.857,https://courses.csail.mit.edu/6.857/2015/,Computer and Network Security MIT.,,,,789
+Courses,,Lecture Notes,https://courses.csail.mit.edu/6.857/2015/handouts,"Emphasis on applied cryptography and may include: basic notion of systems security, cryptographic hash functions, symmetric cryptography (one-time pad, stream ciphers, block ciphers), cryptanalysis, secret-sharing, authentication codes, public-key cryptography (encryption, digital signatures), public-key attacks, web browser security, biometrics, electronic cash, viruses, electronic voting, Assignments include a group final project. Topics may vary year to year..References.",,,,790
+Courses,,6.858,https://css.csail.mit.edu/6.858/2014/,Computer Systems Security MIT.,,,,793
+Courses,,James Mickens,https://research.microsoft.com/en-us/people/mickens/,Taught by  and Nickolai Zeldovich.,,,,795
+Courses,,Video Lectures and Labs,https://css.csail.mit.edu/6.858/2014/schedule.html,,,,,796
+Courses,,Quizzes,https://css.csail.mit.edu/6.858/2014/quiz.html,,,,,797
+Courses,,Readings,https://css.csail.mit.edu/6.858/2014/reference.html,,,,,798
+Courses,,Final Projects,https://css.csail.mit.edu/6.858/2014/projects.html,,,,,799
+Courses,,18-636,https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013,Browser Security Stanford.,,,,800
+Courses,,CS 188,http://ai.berkeley.edu/home.html,Introduction to Artificial Intelligence UC Berkeley.,,,,806
+Courses,,Lectures,http://ai.berkeley.edu/lecture_videos.html,,,,,808
+Courses,,Projects,http://ai.berkeley.edu/project_overview.html,,,,,809
+Courses,,Exams,http://ai.berkeley.edu/exams.html,,,,,810
+Courses,,CS 4700,https://www.cs.cornell.edu/courses/CS4700/2014fa/,Foundations of Artificial Intelligence Cornell University.,,,,811
+Courses,,CS 6700,https://www.cs.cornell.edu/courses/CS6700/2013sp/,Advanced Artificial Intelligence Cornell University.,,,,815
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx,,,,,817
+Courses,,6.868J,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm,The Society of Mind MIT.,,,,820
+Courses,,Marvin Minsky,https://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0,"This course is an introduction, by Prof. , to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.",,,,821
+Courses,,Lectures,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/,,,,,822
+Courses,,Assignments,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/,,,,,823
+Courses,,Readings,https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/,,,,,824
+Courses,,CAP 5415,http://crcv.ucf.edu/courses/CAP5415/,Computer Vision University of Central Florida.,,,,828
+Courses,,Lectures and Videos,http://crcv.ucf.edu/videos/Lecture_Videos/,,,,,830
+Courses,,Assignments,http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php,,,,,831
+Courses,,CIS 581,https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=CIS_581:_Computer_Vision_%26_Computational_Photography,Computer Vision and Computational Photography University of Pennsylvania.,,,,832
+Courses,,Lectures,https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Schedule,,,,,834
+Courses,,Assignments,https://alliance.seas.upenn.edu/~cis581/wiki/index.php?title=Projects,,,,,835
+Courses,,CMU 462,http://15462.courses.cs.cmu.edu/fall2015,Computer Graphics Carnegie Mellon University.,,,,836
+Courses,,Lectures and Readings,http://15462.courses.cs.cmu.edu/fall2015/reading,,,,,838
+Courses,,Assignments and Quizes,http://15462.courses.cs.cmu.edu/fall2015/exercises,,,,,839
+Courses,,CS 378,https://github.com/ut-cs378-vision-2014fall/course-info,3D Reconstruction with Computer Vision UTexas.,,75,2015-02-17,840
+Courses,,Lectures,https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes,"★ 75 stars, last push 2015-02-17.",,,,842
+Courses,,CS 4620,https://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#,Introduction to Computer Graphics Cornell University.,,,,843
+Courses,,Assignments,https://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#asgn,,,,,845
+Courses,,Exams,https://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#exams,,,,,846
+Courses,,CS 4670,https://www.cs.cornell.edu/courses/CS4670/2015sp/,Introduction to Computer Vision Cornell University.,,,,847
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS4670/2015sp/projects/projects.html,,,,,849
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS4670/2015sp/lectures/lectures.html,,,,,850
+Courses,,CS 6670,https://canvas.instructure.com/courses/904706,Computer Vision Cornell University.,,,,851
+Courses,,Syllabus,https://canvas.instructure.com/courses/904706/assignments/syllabus,,,,,853
+Courses,,Assignments,https://canvas.instructure.com/courses/904706/assignments,,,,,855
+Courses,,CSCI 1230,https://cs.brown.edu/courses/csci1230/index.html,Introduction to Computer Graphics Brown University.,,,,856
+Courses,,Lectures,http://cs.brown.edu/courses/csci1230/lectures.html,,,,,858
+Courses,,Labs,http://cs.brown.edu/courses/csci1230/labs.html,,,,,859
+Courses,,Demos,http://cs.brown.edu/courses/csci1230/demos.html,,,,,860
+Courses,,CSCI-GA.2270-001,https://mrl.nyu.edu/~perlin/courses/fall2015/,Graduate Computer Graphics New York University.,,,,861
+Courses,,AM 207,https://am207.github.io/2016/index.html,Monte Carlo Methods and Stochastic Optimization Harvard University.,,,,867
+Courses,,Lecture Videos,http://cm.dce.harvard.edu/2015/02/24104/publicationListing.shtml,,,,,869
+Courses,,Assignments,http://am207.github.io/2016/homework.html,,,,,870
+Courses,,Lecture Notes,http://am207.github.io/2016/lectures.html,,,,,871
+Courses,,CS 75,http://ocw.tufts.edu/Course/75,Introduction to Game Development Tufts University.,,,,872
+Courses,,Ming Y. Chow,https://mchow01.github.io,"The course taught by  teaches game development initially in PyGame through Python, before moving on to addressing all facets of game development. Topics addressed include game physics, sprites, animation, game development methodology, sound, testing, MMORPGs and online games, and addressing mobile development in Android, HTML5, and iOS. Most to all of the development is focused on PyGame for learning principles.",,,,873
+Courses,,Text Lectures,http://ocw.tufts.edu/Course/75/Learningunits,,,,,874
+Courses,,Assignments,http://ocw.tufts.edu/Course/75/Assignments,,,,,875
+Courses,,Labs,http://ocw.tufts.edu/Course/75/Labs,,,,,876
+Courses,,CS 50,https://cs50.github.io/games/,Intro to Game Developement Harvard University.,,,,877
+Courses,,LÖVE 2D,https://love2d.org/,"This course picks up where Harvard College’s CS50 leaves off, focusing on the development of 2D and 3D interactive games. Students explore the design of such childhood games as Super Mario Bros., Legend of Zelda, and Portal in a quest to understand how video games themselves are implemented. Via lectures and hands-on projects, the course explores principles of 2D and 3D graphics, animation, sound, and collision detection using frameworks like Unity and , as well as languages like Lua and C#. By class’s end, students will have programmed several of their own games and gained a thorough understanding of the basics of game design and development.",,,,878
+Courses,,Assignments,https://cs50.github.io/games/assignments,,,,,879
+Courses,,Lecture Videos,https://cs50.github.io/games/lectures,,,,,880
+Courses,,CS 100,https://github.com/mikeizbicki/ucr-cs100,Source Software Construction UC Riverside.,Open,508,2019-04-04,881
+Courses,,Assignments,https://github.com/mikeizbicki/ucr-cs100/tree/2015winter/assignments,"★ 508 stars, last push 2019-04-04.",,,,884
+Courses,,CS 108,https://web.stanford.edu/class/archive/cs/cs108/cs108.1092/,Object Oriented System Design Stanford.,,,,885
+Courses,,CS 168,https://inst.eecs.berkeley.edu/~cs168/fa15/,Computer Networks UC Berkeley.,,,,887
+Courses,,CS 193a,https://web.stanford.edu/class/cs193a/lectures.shtml,"Android App Development, Spring 2016 Stanford University.",,,,890
+Courses,,here,https://web.stanford.edu/class/cs193a/videos.shtml,Videos: Videos list can be found .,,,,894
+Courses,,here,https://github.com/VoLuong/Materials-CS193A-Android-App-Development-Standford,"Other materials: Some codes, handsout, homework ..... and lecture notes are not downloadable on the site due to login requirement. Please head to my Github repo  to download them.",,119,,895
+Courses,,CS 193p,https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550,Developing Applications for iOS Stanford University.,,,,896
+Courses,,Programming Abstractions,https://itunes.apple.com/us/course/programming-abstractions/id495054099,Recommended: .,,,,899
+Courses,,Updated courses for iOS8 - Swift,https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099,,,,,900
+Courses,,Updated courses for iOS9 - Swift,https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961,,,,,901
+Courses,,CS 223A,https://see.stanford.edu/Course/CS223A,Introduction to Robotics Stanford University.,,,,902
+Courses,,CS 262a,https://www.cs.berkeley.edu/~brewer/cs262/,Advanced Topics in Computer Systems UC Berkeley.,,,,904
+Courses,,CS 294,https://inst.eecs.berkeley.edu/~cs294-101/sp15/,Cutting-edge Web Technologies Berkeley.,,,,909
+Courses,,CS 411,https://video.bilkent.edu.tr/course_videos.php?courseid=10,Software Architecture Design Bilkent University.,,,,911
+Courses,,CS 3152,http://www.cs.cornell.edu/courses/CS3152/2014sp/,Introduction to Computer Game Development Cornell University.,,,,913
+Courses,,Syllabus,http://www.cs.cornell.edu/courses/CS3152/2014sp/about/faq.php,,,,,915
+Courses,,Lectures,http://www.cs.cornell.edu/courses/CS3152/2014sp/lectures/index.php,,,,,916
+Courses,,Assignments,http://www.cs.cornell.edu/courses/CS3152/2014sp/assignments/index.php,,,,,917
+Courses,,CS 4152,http://www.cs.cornell.edu/courses/CS4152/2014sp/,Advanced Topics in Computer Game Development Cornell University.,,,,918
+Courses,,Syllabus,http://www.cs.cornell.edu/courses/CS4152/2014sp/about/faq.php,,,,,920
+Courses,,Lectures,http://www.cs.cornell.edu/courses/CS4152/2014sp/sessions/index.php,,,,,921
+Courses,,Assignments,http://www.cs.cornell.edu/courses/CS4152/2014sp/assignments/index.php,,,,,922
+Courses,,CS 4154,http://www.cs.cornell.edu/courses/CS4154/2014fa/,Analytics-driven Game Design Cornell University.,,,,923
+Courses,,Syllabus,http://www.cs.cornell.edu/courses/CS4154/2014fa/about/faq.php,,,,,925
+Courses,,Lectures,http://www.cs.cornell.edu/courses/CS4154/2014fa/lectures/index.php,,,,,926
+Courses,,Assignments,http://www.cs.cornell.edu/courses/CS4154/2014fa/assignments/index.php,,,,,927
+Courses,,CS 4812,https://courses.cit.cornell.edu/physics4481-7681_2018fa/,Quantum Information Processing Cornell University.,,,,928
+Courses,,CS 4860,https://www.cs.cornell.edu/courses/CS4860/2012fa/,Applied Logic Cornell University.,,,,932
+Courses,,www.nuprl.org,http://www.nuprl.org,"In addition to basic first-order logic, when taught by Computer Science this course involves elements of Formal Methods and Automated Reasoning. Formal Methods is concerned with proving properties of algorithms, specifying programming tasks and synthesizing programs from proofs. We will use formal methods tools such as interactive proof assistants (see ). We will also spend two weeks on constructive type theory, the language used by the Coq and Nuprl proof assistants.",,,,933
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS4860/2012fa/schedule.php,,,,,934
+Courses,,CS 5150,https://www.cs.cornell.edu/courses/CS5150/2014fa/overview.html,Software Engineering Cornell University.,,,,937
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS5150/2014fa/materials.html,,,,,939
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS5150/2014fa/assignments.html,,,,,940
+Courses,,CS 5220,https://www.cs.cornell.edu/~bindel/class/cs5220-f11/,Applications of Parallel Computers Cornell University.,,,,941
+Courses,,Lectures,https://www.cs.cornell.edu/~bindel/class/cs5220-f11/lectures.html,,,,,950
+Courses,,Assignments,https://www.cs.cornell.edu/~bindel/class/cs5220-f11/assignments.html,,,,,951
+Courses,,CS 5540,https://sites.google.com/site/cs5540sp2013/,Computational Techniques for Analyzing Clinical Data Cornell University.,,,,952
+Courses,,Syllabus,https://sites.google.com/site/cs5540sp2013/home/course-description,,,,,954
+Courses,,Lectures,https://sites.google.com/site/cs5540sp2013/lectures,,,,,955
+Courses,,Assignments,https://sites.google.com/site/cs5540sp2013/assignments,,,,,956
+Courses,,CS 5724,http://courses2.cit.cornell.edu/cs5724/,Evolutionary Computation Cornell University.,,,,957
+Courses,,Lectures,http://courses2.cit.cornell.edu/cs5724/schedule.htm,,,,,960
+Courses,,CS 6452,https://www.cs.cornell.edu/courses/CS6452/2012sp/index.php,Datacenter Networks and Services Cornell University.,,,,962
+Courses,,Syllabus,https://www.cs.cornell.edu/courses/CS6452/2012sp/lectures.php,,,,,964
+Courses,,CS 6630,https://www.cs.cornell.edu/courses/CS6630/2012sp/about.stm,Realistic Image Synthesis Cornell University.,,,,966
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS6630/2012sp/schedule.stm,,,,,969
+Courses,,CS 6640,https://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#,Computational Photography Cornell University.,,,,972
+Courses,,Lectures,https://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#schedule,,,,,974
+Courses,,Assignments,https://www.cs.cornell.edu/courses/CS6640/2012fa/index.shtml#hw,,,,,975
+Courses,,CS 6650,https://www.cs.cornell.edu/courses/CS6650/2013fa/,Computational Motion Cornell University.,,,,976
+Courses,,CS 6840,https://www.cs.cornell.edu/courses/CS6840/2014sp/,Algorithmic Game Theory Cornell University.,,,,978
+Courses,,CSE 154,https://courses.cs.washington.edu/courses/cse154/14au/,Web Programming University of Washington.,,,,984
+Courses,,Lectures,https://courses.cs.washington.edu/courses/cse154/14au/lectures.shtml#today,,,,,986
+Courses,,Assignments,https://courses.cs.washington.edu/courses/cse154/14au/homework.shtml,,,,,987
+Courses,,ESM 296-4F,http://ucsb-bren.github.io/esm296-4f/,GIS & Spatial Analysis UC Santa Barbara.,,,,988
+Courses,,James Frew,http://www.bren.ucsb.edu/people/Faculty/james_frew.htm,"Taught by , Ben Best, and Lisa Wedding.",,,,989
+Courses,,ICS 314,https://philipmjohnson.github.io/ics314f13/,Software Engineering University of Hawaii.,,,,992
+Courses,,Philip Johnson,https://philipmjohnson.org/,Taught by .,,,,993
+Courses,,"""Athletic Software Engineering"" pedagogy",https://philipmjohnson.org/essays/ase-initial-results.html,Introduction to software engineering using the .,,,,994
+Courses,,Readings,https://philipmjohnson.github.io/ics314f13/readings/,,,,,995
+Courses,,Experiences,https://philipmjohnson.github.io/ics314f13/experiences/,,,,,996
+Courses,,Assessments,https://philipmjohnson.github.io/ics314f13/assessments/,,,,,997
+Courses,,IGME 582,http://hfoss-fossrit.rhcloud.com,Humanitarian Free & Open Source Software Development Rochester Institute of Technology.,,,,998
+Courses,,I485 / H400,https://www.informatics.indiana.edu/rocha/i-bic/,Biologically Inspired Computation Indiana University.,,,,1000
+Courses,,Luis Rocha,https://www.informatics.indiana.edu/rocha/lr_form.html,"Course taught by  about the multi-disciplinary field algorithms inspired by naturally occurring phenomenon. This course provides introduces the following areas: L-systems, Cellular Automata, Emergence, Genetic Algorithms, Swarm Intelligence and Artificial Immune Systems. It's aim is to cover the fundamentals and enable readers to build up a proficiency in applying various algorithms to real-world problems.",,,,1001
+Courses,,Lectures,https://www.informatics.indiana.edu/rocha/i-bic/#materials,,,,,1002
+Courses,,Assignments,https://www.informatics.indiana.edu/rocha/i-bic/#labs,,,,,1003
+Courses,,Open Sourced Elective: Database and Rails,https://www.schneems.com/ut-rails/,Intro to Ruby on Rails University of Texas.,,,,1004
+Courses,,Videos,https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F,,,,,1008
+Courses,,SCICOMP,http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233,An Introduction to Efficient Scientific Computation Universität Bremen.,,,,1009
+Courses,,Oliver Serang,http://colorfulengineering.org/,"This is a graduate course in scientific computing created and taught by  in 2014, which covers topics in computer science and statistics with applications from biology. The course is designed top-down, starting with a problem and then deriving a variety of solutions from scratch.",,,,1010
+Courses,,Lecture videos on Youtube,https://www.youtube.com/user/fillwithlight/videos,And for direct download.,,,,1012
+Courses,,14-740,http://www.ini740.rocks/F20,Fundamentals of Computer Networks CMU.,,,,1013
+Courses,,STAT 340,https://andrewpbray.github.io/reg/index.html,Applied Regression Methods Smith College.,,,,1022
+Courses,,Syllabus,https://andrewpbray.github.io/reg/syllabus.html,,,,,1029
